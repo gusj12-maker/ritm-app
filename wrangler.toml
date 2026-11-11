@@ -2,3 +2,4 @@ name = "ritm-app"
 compatibility_date = "2024-03-20"
 [assets]
 directory = "./out"
+not_found_handling = "404-page"
