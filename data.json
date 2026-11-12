@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "id": 1794440535315,
+      "text": "Помыть пол",
+      "done": false,
+      "category": "Другое"
+    }
+  ],
+  "schedule": {
+    "workStart": "09:00",
+    "workEnd": "18:00"
+  },
+  "energy": null
+}

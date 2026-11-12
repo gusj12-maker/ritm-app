@@ -1,0 +1,36 @@
+{
+  "1460476266": {
+    "tasks": [],
+    "energy": null,
+    "schedule": {
+      "weekday": "9:00-18:00",
+      "weekend": "12:00-16:00",
+      "sleep": "01:00-7:00"
+    },
+    "setupStep": 0,
+    "pendingTask": {
+      "text": "01:00-7:00",
+      "category": "Другое"
+    }
+  },
+  "6634649334": {
+    "tasks": [
+      {
+        "id": 1794441955768,
+        "text": "Купить хлеб",
+        "category": "Быт",
+        "done": false,
+        "deadline": 1794517140000,
+        "remindTime": 1794452755755
+      }
+    ],
+    "energy": null,
+    "schedule": {
+      "weekday": "10:00-19:00",
+      "weekend": "Отдыхаю",
+      "sleep": "00:00-09:00"
+    },
+    "setupStep": 0,
+    "pendingTask": null
+  }
+}
